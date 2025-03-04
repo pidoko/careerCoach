@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "category": "Behavioral",
+        "question": "Tell me about a time you solved a challenging problem in a class project or internship."
+    },
+    {
+        "id": 2,
+        "category": "Technical",
+        "question": "Explain the difference between an array and a linked list."
+    },
+    {
+        "id": 3,
+        "category": "General",
+        "question": "Why are you interested in starting your career at Microsoft?"
+    },
+    {
+        "id": 4,
+        "category": "Behavioral",
+        "question": "Describe a time when you had to collaborate with classmates or teammates to complete a project."
+    },
+    {
+        "id": 5,
+        "category": "Technical",
+        "question": "How would you design a basic to-do list application?"
+    },
+    {
+        "id": 6,
+        "category": "Behavioral",
+        "question": "Tell me about a time you received feedback on your work. How did you respond?"
+    },
+    {
+        "id": 7,
+        "category": "Technical",
+        "question": "What are the key differences between Python and Java?"
+    },
+    {
+        "id": 8,
+        "category": "General",
+        "question": "How do you approach learning new programming languages or technologies?"
+    },
+    {
+        "id": 9,
+        "category": "Behavioral",
+        "question": "Describe a time you had to meet a tight deadline during a school project."
+    },
+    {
+        "id": 10,
+        "category": "Technical",
+        "question": "How would you debug a program that suddenly starts running very slowly?"
+    },
+    {
+        "id": 11,
+        "category": "Behavioral",
+        "question": "Tell me about a time you faced unexpected challenges in a project and how you handled them."
+    },
+    {
+        "id": 12,
+        "category": "Technical",
+        "question": "What are the benefits of using object-oriented programming?"
+    },
+    {
+        "id": 13,
+        "category": "General",
+        "question": "What excites you most about working in technology?"
+    },
+    {
+        "id": 14,
+        "category": "Behavioral",
+        "question": "Give an example of when you took initiative to solve a problem, even if it wasn’t your responsibility."
+    },
+    {
+        "id": 15,
+        "category": "Technical",
+        "question": "What is the difference between a stack and a queue?"
+    },
+    {
+        "id": 16,
+        "category": "Behavioral",
+        "question": "Describe a time you adapted to a change in project requirements."
+    },
+    {
+        "id": 17,
+        "category": "Technical",
+        "question": "How would you explain recursion to someone new to programming?"
+    },
+    {
+        "id": 18,
+        "category": "General",
+        "question": "How do you prioritize your tasks when working on multiple projects?"
+    },
+    {
+        "id": 19,
+        "category": "Behavioral",
+        "question": "Tell me about a time you worked with someone who had a different working style than you."
+    },
+    {
+        "id": 20,
+        "category": "Technical",
+        "question": "What is a hash table and how is it used?"
+    },
+    {
+        "id": 21,
+        "category": "Behavioral",
+        "question": "Give an example of a time you asked for help when you were stuck on a problem."
+    },
+    {
+        "id": 22,
+        "category": "Technical",
+        "question": "What are some basic steps you take when debugging code that isn’t working?"
+    },
+    {
+        "id": 23,
+        "category": "Behavioral",
+        "question": "Describe a situation where you learned something new quickly to contribute to a project."
+    },
+    {
+        "id": 24,
+        "category": "Technical",
+        "question": "What are the advantages of using version control systems like Git?"
+    },
+    {
+        "id": 25,
+        "category": "General",
+        "question": "What personal qualities do you think are most important for success at Microsoft?"
+    },
+    {
+        "id": 26,
+        "category": "Behavioral",
+        "question": "Tell me about a time you helped resolve a conflict in a team project."
+    },
+    {
+        "id": 27,
+        "category": "Technical",
+        "question": "How would you explain the concept of Big O notation?"
+    },
+    {
+        "id": 28,
+        "category": "Behavioral",
+        "question": "Give an example of a time you balanced quality with fast delivery."
+    },
+    {
+        "id": 29,
+        "category": "Technical",
+        "question": "What is the difference between HTTP and HTTPS?"
+    },
+    {
+        "id": 30,
+        "category": "General",
+        "question": "How do you approach working with customers or end-users when developing software?"
+    },
+    {
+        "id": 31,
+        "category": "Behavioral",
+        "question": "Tell me about a project you’re most proud of and why."
+    },
+    {
+        "id": 32,
+        "category": "Technical",
+        "question": "What are the benefits of writing unit tests for your code?"
+    },
+    {
+        "id": 33,
+        "category": "Behavioral",
+        "question": "Describe a time you received critical feedback and how you applied it."
+    },
+    {
+        "id": 34,
+        "category": "Technical",
+        "question": "What are some common pitfalls in writing efficient code?"
+    },
+    {
+        "id": 35,
+        "category": "Behavioral",
+        "question": "Give an example of when you showed leadership in a project, even without a formal title."
+    },
+    {
+        "id": 36,
+        "category": "Technical",
+        "question": "How would you approach writing code that needs to handle large amounts of data efficiently?"
+    },
+    {
+        "id": 37,
+        "category": "Behavioral",
+        "question": "Tell me about a time you asked for feedback to improve your work."
+    },
+    {
+        "id": 38,
+        "category": "Technical",
+        "question": "What’s the difference between a relational and non-relational database?"
+    },
+    {
+        "id": 39,
+        "category": "General",
+        "question": "How do you handle ambiguity when given an open-ended project?"
+    },
+    {
+        "id": 40,
+        "category": "Behavioral",
+        "question": "Describe a time you took on a task outside your comfort zone."
+    },
+    {
+        "id": 41,
+        "category": "Technical",
+        "question": "What’s the difference between synchronous and asynchronous programming?"
+    },
+    {
+        "id": 42,
+        "category": "General",
+        "question": "Why is diversity and inclusion important in a workplace like Microsoft?"
+    },
+    {
+        "id": 43,
+        "category": "Behavioral",
+        "question": "Tell me about a time you identified an improvement opportunity in a process or tool."
+    },
+    {
+        "id": 44,
+        "category": "Technical",
+        "question": "How would you handle a situation where you disagree with a technical decision made by your team?"
+    },
+    {
+        "id": 45,
+        "category": "Behavioral",
+        "question": "Give an example of a time you set a challenging goal for yourself and achieved it."
+    }
+]
